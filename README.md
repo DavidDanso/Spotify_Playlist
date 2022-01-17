@@ -41,9 +41,6 @@ HINT 4:  If successful, you should see the page below show up automatically (be 
 <img src="https://github.com/DavidDanso/Spotify_Playlist/blob/master/images/agree_img.png" width=600 />
 
 5. You'll get a new URL copy the entire URL from the address bar, finally you need to paste the URL into the prompt in PyCharm:
-<img src="https://github.com/DavidDanso/Spotify_Playlist/blob/master/images/URL.png" width=600 />
-
-<img src="https://github.com/DavidDanso/Spotify_Playlist/blob/master/images/agree_img.png" width=600 />
 
 6. Now if you close PyCharm and restart, you should see a new file in this project called token.txt
 <img src="https://github.com/DavidDanso/Spotify_Playlist/blob/master/images/token_img.png" width=600 />
