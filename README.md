@@ -1,8 +1,8 @@
-Spotify Playlist
+## Spotify Playlist
 
 ##### This repo contains all the `project files`.
 
-Installation
+### Installation
 
 1 - clone repo https://github.com/DavidDanso/Spotify_Playlist
 2 - create a virtual environment and activate
@@ -33,6 +33,7 @@ one of the most popular Python Spotify modules - SPOTIPY to make things easier.`
 3.1. Use http://example.com as your Redirect URI. You're looking to get the currentuser id (your Spotify username). 
 As per the documentation, make sure you set the redirect URI in the Spotify Dashboard as well.
 <img src="https://github.com/DavidDanso/Spotify_Playlist/blob/master/images/edit_img.png" width=600 />
+
 <img src="https://github.com/DavidDanso/Spotify_Playlist/blob/master/images/redirect_url_img.png" width=600 />
 
 4. Run the program and wait for a while, but first make sure your have your `Client ID and Client Secret` stored into a variable provided in the program
@@ -41,6 +42,7 @@ HINT 4:  If successful, you should see the page below show up automatically (be 
 
 5. You'll get a new URL copy the entire URL from the address bar, finally you need to paste the URL into the prompt in PyCharm:
 <img src="https://github.com/DavidDanso/Spotify_Playlist/blob/master/images/URL.png" width=600 />
+
 <img src="https://github.com/DavidDanso/Spotify_Playlist/blob/master/images/agree_img.png" width=600 />
 
 6. Now if you close PyCharm and restart, you should see a new file in this project called token.txt
