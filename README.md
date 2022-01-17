@@ -17,6 +17,8 @@ source envname\scripts\activate`[for Mac users]`
 
 #### A GUI Application that creates a Spotify Playlist from any year in the past, by just entering your preferred date 
 
+#### if you think that these can be improved in any way, please do suggest.
+
 ## Authentication with Spotify
 1. In order to create a playlist in Spotify you must have an account with Spotify. If you don't already have an account, 
 you can sign up for a free one here: http://spotify.com/signup/
